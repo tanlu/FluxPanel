@@ -1,5 +1,5 @@
 import uvicorn
-from server import app, AppConfig  # noqa: F401
+from server import app, AppConfig
 
 
 if __name__ == '__main__':
